@@ -1,4 +1,4 @@
-# 🚀 AI Mock Interview Platform
+#  AI Mock Interview Platform
 
 > Ace Your Technical Interviews with AI-Powered Practice
 
